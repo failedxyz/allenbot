@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cleverbot.io": "^1.0.4",
     "facebook-chat-api": "^1.0.5"
   }
 }
